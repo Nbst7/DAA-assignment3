@@ -238,7 +238,4 @@ other languages.
 Sources: course lectures on DSU, MST, DFS, Kosaraju and DAG shortest paths; the assignment specification and template
 repository `RZhaniya/daa-assignment-3-graphs`; Python standard library documentation (`heapq`, `unittest`).
 
-AI assistance: Claude (Anthropic) was used as a coding and writing assistant: it drafted the implementation in
-`src/Python/algorithms.py` (based on my own DSU solution), the own tests and oracles in `tests/`, the benchmark script and
-the first version of this document. I ran the commands, reviewed the results and I am responsible for the submitted
-work and its explanations.
+AI assistance: Claude (Anthropic) was used solely to help detect and fix coding and writing errors. All implementation, tests, benchmarks, and explanations were developed by me. I reviewed all suggestions, made the final decisions, and take full responsibility for the submitted work.
